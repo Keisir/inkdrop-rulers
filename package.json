@@ -1,0 +1,13 @@
+{
+  "name": "rulers",
+  "main": "./lib/inkdrop-rulers",
+  "version": "0.0.0",
+  "description": "Adds rulers support for the editor",
+  "keywords": [],
+  "repository": "https://github.com/mravenel/inkdrop-rulers",
+  "license": "MIT",
+  "engines": {
+    "inkdrop": "^5.3.1"
+  },
+  "dependencies": {}
+}
