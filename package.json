@@ -1,7 +1,7 @@
 {
   "name": "rulers",
   "main": "./lib/inkdrop-rulers",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "description": "A plugin to expose the ruler configuration for CodeMirror.",
   "keywords": [],
   "repository": "https://github.com/mravenel/inkdrop-rulers",
