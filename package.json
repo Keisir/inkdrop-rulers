@@ -2,7 +2,7 @@
   "name": "rulers",
   "main": "./lib/inkdrop-rulers",
   "version": "1.0.0",
-  "description": "A plugin to expose the ruler configuration for CodeMirror.",
+  "description": "A plugin to expose the ruler configuration in the editor.",
   "keywords": [],
   "repository": "https://github.com/mravenel/inkdrop-rulers",
   "license": "MIT",

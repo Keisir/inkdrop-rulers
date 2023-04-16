@@ -1,6 +1,6 @@
 # Rulers
 
-A plugin to expose the ruler configuration for CodeMirror.
+A plugin to expose the ruler configuration in the editor.
 
 ## Install
 
