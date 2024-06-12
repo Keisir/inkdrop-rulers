@@ -7,7 +7,7 @@
   "repository": "https://github.com/mravenel/inkdrop-rulers",
   "license": "MIT",
   "engines": {
-    "inkdrop": "^5.3.1"
+    "inkdrop": ">=5.6.0 <7"
   },
   "dependencies": {}
 }
