@@ -23,3 +23,7 @@ based on theme.
 
 A comma separated list of styles for rulers. Available options are solid, dotted 
 or dashed. **Default:** solid.
+
+## Acknowledgements
+
+Thanks to @mravenel for creating this plugin.

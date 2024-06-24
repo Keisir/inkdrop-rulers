@@ -4,7 +4,7 @@
   "version": "1.0.1",
   "description": "A plugin to expose the ruler configuration in the editor.",
   "keywords": [],
-  "repository": "https://github.com/mravenel/inkdrop-rulers",
+  "repository": "https://github.com/keisir/inkdrop-rulers",
   "license": "MIT",
   "engines": {
     "inkdrop": ">=5.6.0 <7"
