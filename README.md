@@ -1,6 +1,8 @@
 # Rulers
 
-A plugin to expose the ruler configuration in the editor.
+Displays vertical ruler lines at configurable column positions in the Markdown editor.
+
+Works correctly with gutters (e.g. code folding) and readable line length layouts where `cm-content` is centered or width-limited.
 
 ## Options
 
@@ -12,7 +14,7 @@ A plugin to expose the ruler configuration in the editor.
 
 Note: Whitespaces are ignored and can be used for better readability.
 
-## Example 
+## Example
 
 <table>
     <tr>
@@ -27,15 +29,17 @@ Colors: #5a5a5a, #facc14, #f87272
 Line Styles: solid</pre>
         </td>
         <td>
-            <img src="./img/exmaple-rulers.png" alt="exmpale rulers" width="400"/>
+            <img src="./img/example.png" alt="example rulers" width="400"/>
         </td>
     </tr>
 </table>
 
-
 ## Changelog
 
-See the [GitHub releases](https://github.com/Keisir/inkdrop-rulers/releases) for an overview of what changed in each update.
+### 2.0.0
+
+- Support Inkdrop v6
+- Migrated from CodeMirror v5 to v6
 
 ## Acknowledgements
 

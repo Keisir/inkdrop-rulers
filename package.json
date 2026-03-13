@@ -1,13 +1,19 @@
 {
-  "name": "rulers",
-  "main": "./lib/inkdrop-rulers",
-  "version": "1.1.1",
-  "description": "A plugin to expose the ruler configuration in the editor.",
-  "keywords": [],
-  "repository": "https://github.com/keisir/inkdrop-rulers",
-  "license": "MIT",
-  "engines": {
-    "inkdrop": ">=5.11.0 <7"
-  },
-  "dependencies": {}
+    "name": "rulers",
+    "main": "./src/index",
+    "version": "2.0.0",
+    "type": "commonjs",
+    "description": "Displays vertical ruler lines at configurable column positions in the Markdown editor.",
+    "keywords": [],
+    "repository": "https://github.com/Keisir/inkdrop-rulers",
+    "license": "MIT",
+    "scripts": {
+        "format": "prettier --ignore-path .gitignore --write ."
+    },
+    "engines": {
+        "inkdrop": "^6.x"
+    },
+    "devDependencies": {
+        "prettier": "^3.0.2"
+    }
 }
